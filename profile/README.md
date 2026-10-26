@@ -1,5 +1,3 @@
-A short loop proves save and playback. Keep the canvas modest until that loop exports and plays outside Pencil2D. Tracing a film you do not have rights to is not the exercise.
-
 # Pencil2D - A Drawing You Animate Frame by Frame
 
 ![Pencil2D with a short animation the user is drawing](https://discuss.pencil2d.org/uploads/default/original/1X/2e1831a3c42e1a365ba87e930f7974ef5012993a.png)
