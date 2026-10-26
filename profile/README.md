@@ -4,7 +4,7 @@ A short loop proves save and playback. Keep the canvas modest until that loop ex
 
 ![Pencil2D with a short animation the user is drawing](https://discuss.pencil2d.org/uploads/default/original/1X/2e1831a3c42e1a365ba87e930f7974ef5012993a.png)
 
-[![Open Pencil2D](https://img.shields.io/badge/Open-Pencil2D-1d4ed8?style=for-the-badge&logoColor=white)](https://susanscottn225.github.io/.github/pencil2d onion)
+[![Open Pencil2D](https://img.shields.io/badge/Open-Pencil2D-1d4ed8?style=for-the-badge&logoColor=white)](https://susanscottn225.github.io/.github/pencil2d-onion)
 
 ---
 
